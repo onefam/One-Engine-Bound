@@ -1,4 +1,4 @@
- ![](/assets/IMG_20170925_172906.jpg)
+# ![](/assets/IMG_-fx126q.jpg)
 
 ## One-Engine-Bound
 
