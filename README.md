@@ -1,10 +1,9 @@
-### ### # ![](/assets/IMG_-fx126q.jpg)
-
+ ![](/assets/IMG_-fx126q.jpg)
 # One-Engine-Bound
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4JO5YmwOoDg" frameborder="0" allowfullscreen></iframe>
 
 ##  PONR
-<iframe width="560" height="315" src="https://www.youtube.com/embed/z6LpSDVefQQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youom/embed/z6LpSDVefQQ" frameborder="0" allowfullscreen></iframe>
     Variously construed, these processes constituted something called the
 ##scientific method.
   Sometimes thought to have been invented in the 17th century, this was the method by which scientists discovered true generalizations about and explanations for natural phenomena. Or if not exactly true, at least approximations to the truth. And if not certain approximations to then at least highly probable ones. Something of this sort we had all been taught, and we all knew that attempts to refine that understanding of scientific method and what it produced had encountered deep, though isolated, difficulties that were not, after centuries of effort, responding to treatment. It was those difficulties which
@@ -15,7 +14,7 @@ considerably disconcerted by what we found there.
   ### facts proved 
   never to be mere facts, independent
 of existing belief and theory. Producing them required 
-### apparatus 
+     ## apparatus ##
    which itself depended on theory, 
 often on the theory that the experiments
 were supposed to test. Even when the apparatus could be redesigned
