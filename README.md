@@ -10,13 +10,14 @@
   Sometimes thought to have been invented in the 17th century, this was the method by which scientists discovered true generalizations about and explanations for natural phenomena. Or if not exactly true, at least approximations to the truth. And if not certain approximations to then at least highly probable ones. Something of this sort we had all been taught, and we all knew that attempts to refine that understanding of scientific method and what it produced had encountered deep, though isolated, difficulties that were not, after centuries of effort, responding to treatment. It was those difficulties which
 drove us to observations of scientific life and to history, and we were
 considerably disconcerted by what we found there.
-    In the first place, the supposedly solid facts of observations turned to be pliable. The results achieved by different people apparently observing the same phenomena differed from one another, though never
-|a great deal. 
+    In the first place, the supposedly solid facts of observations turned to be pliable. The results achieved by different people apparently observing the same phenomena differed from one another, though never a great deal. 
       And those differences-though contained in the same ball park-were often sufficient to affect crucial points of interpretation. In addition the so call 
-      #facts proved 
+  ###facts proved 
  never to be mere facts, independent
-of existing belief and theory. Producing them required apparatus which
-itself depended on theory, often on the theory that the experiments
+of existing belief and theory. Producing them required 
+##apparatus 
+which itself depended on theory, 
+often on the theory that the experiments
 were supposed to test. Even when the apparatus could be redesigned
 to eliminate or reduce these disagreements, the design process some-
 times forced the revision of conceptions about what was being observed.
