@@ -1,4 +1,54 @@
+
+
+
+
+JOHN PHILLIPS MARQUAND was born
+
+in Wilmington, Delaware, and spent most of his boyhood in New York
+
+City and Newburyport, Massachusetts. He graduated from Harvard
+
+College in 1915, worked for a time on the Boston Transcript, and served
+
+as a First Lieutenant in the Field Artillery in the First World War,
+
+participating in several offensives in France. Those who had known
+
+him on the editorial board of the Lam poon at Harvard watched his
+
+work with interest when he began writing serials that brought hinm
+
+popularity and good prices in the nineteen-twenties, but it was not until
+
+1937 that his Harvard friends saw the fulfillment of his promise in
+
+his college days. That year THE LATE GEORGE APLEY took Boston and
+
+the critics by storm and established Mr. Marquand's reputation as a
+
+novelist and satirist; and in 1938 it won him the Pulitzer Prize in
+
+fiction. Since then he has published five more full-length novels,
+
+WICK FORD POINT, H. M. PULHAM, ESQUIRE, SO LITTLE TIME, B. F.'s
+
+DAUGHTER, and POINT OF NO RETURN, which have established him as
+
+one of America's top-ranking novelists. Mr. Marquand lives a good
+
+part of the year at Newburyport, did much confidential work for the
+
+War Department during the Second World War, and is now one of the
+
+five judges of the Book-of-the-Month Club.
+
+
+
+
+
 POINT OF NO RETURN
+
+
 
 By JOHN P. MARQUAND
 
@@ -74,7 +124,7 @@ who has the same hope. If Charles loses out he
 
 will be too old to have much chance of future
 
-promotion, which is good reason why his 
+promotion, which is good reason why his
 
 loving but ambitious wife, Nancy, should be
 
@@ -139,6 +189,4 @@ penetrating critic of that side of American life
 which has created wealth and leisure, and a middle
 
 class struggling for these often illusory goals.
-
-
 
