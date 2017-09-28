@@ -1,10 +1,6 @@
-
-
-
-
 JOHN PHILLIPS MARQUAND was born
 
-in Wilmington, Delaware, and spent most of his boyhood in New York
+in Wilmington, Delaware, and spent most of his b4oyhood in New York
 
 City and Newburyport, Massachusetts. He graduated from Harvard
 
@@ -42,13 +38,7 @@ War Department during the Second World War, and is now one of the
 
 five judges of the Book-of-the-Month Club.
 
-
-
-
-
 POINT OF NO RETURN
-
-
 
 By JOHN P. MARQUAND
 
