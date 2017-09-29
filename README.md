@@ -3,7 +3,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4JO5YmwOoDg" frameborder="0" allowfullscreen></iframe>
 
 ##  PONR
-<iframe width="560" height="315" src="https://www.youom/embed/z6LpSDVefQQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube/embed/z6LpSDVefQQ" frameborder="0" allowfullscreen></iframe>
     Variously construed, these processes constituted something called the
 ## scientific method.
   Sometimes thought to have been invented in the 17th century, this was the method by which scientists discovered true generalizations about and explanations for natural phenomena. Or if not exactly true, at least approximations to the truth. And if not certain approximations to then at least highly probable ones. Something of this sort we had all been taught, and we all knew that attempts to refine that understanding of scientific method and what it produced had encountered deep, though isolated, difficulties that were not, after centuries of effort, responding to treatment. It was those difficulties which
@@ -14,7 +14,7 @@ considerably disconcerted by what we found there.
   ### facts proved 
   never to be mere facts, independent
 of existing belief and theory. Producing them required 
-   ## apparatus 
+   ### apparatus 
    which itself depended on theory, 
 often on the theory that the experiments
 were supposed to test. Even when the apparatus could be redesigned
@@ -54,8 +54,7 @@ I believe that these are vital responsibilities that already substantially tap o
 
   I heard some colleagues at the recent ICOM meeting recommend that museums redirect their missions to serve as social justice agencies. I believe it would, indeed, be a misdirection to embark into new skill sets that our staffs, our assets, our p, and our supporters are, to a great extent, mostly unprepared for. They are skills that would require new staff whose focus is not on the museum's role of preserving collections and interpreting knowledge.
 most museums already have subject-area obligations
-To encourage city—and, perhaps, other types of—museums to move beyond their role as the trusted facilitators of the conversation about their communities and become activists in social justice, it seems, is asking a lot of most museum staff.     
-We are not all trained, experienced, or, honestly, even able to deliver programs in the complex realms of social justice.
+To encourage city—and, perhaps, other types of—museums to move beyond their role as the trusted facilitators of the conversation about their communities and become activists in social justice, it seems, is asking a lot of most museum staff.     We are not all trained, experienced, or, honestly, even able to deliver programs in the complex realms of social justice.
 Museums have the agency to give context to change in the past and present of our cities and societies. They do best, I believe, as partners of the agents of change. More to the point, museums’ roles are much larger. We present and contextualize history, art, science, and urban knowledge across decades, even centuries, so they can be drawn upon by audiences today and in the future. I agree that we need to participate fully in the public conversations about where our communities are headed. I do not, however, believe we should allow current issues—be they terrorism, migration, or even climate change—to overwhelm our larger missions. After my long career in the museum field, I am a committed activist in the climate-change issue, but that does not mean I believe my museum should be my personal tool for my activist agenda. I am loathe to see any museum lose its anointed place as the convener of conversations about who and what a community is, where it is going, and how it might get there.
      
      It is good that some museums have elected to redirect their mission or, less radically, put substantial resources into the actual practice of social justice—particularly those with strong financial support from their cities, states, or nations or well-funded by private philanthropists. But for most smaller museums and the vast majority of community and city museums, I believe that remaking their mission as social justice agencies will be a risky business that may win some short term gains but result in the diminution of other vital services they provide their communities.
