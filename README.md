@@ -1,3 +1,8 @@
+
+
+
+<link rel="canonical" href="https://www.example.com/url/to/amp/document.html
+
 # ![](/assets/IMG_-fx126q.jpg)
 
 # One-Engine-Bound
@@ -11,12 +16,14 @@
 drove us to observations of scientific life and to history, and we were
 considerably disconcerted by what we found there.
     In the first place, the supposedly solid facts of observations turned to be pliable. The results achieved by different people apparently observing the same phenomena differed from one another, though never a great deal. 
-      And those differences-though contained in the same ball park-were often sufficient to affect crucial points of interpretation. In addition the so call 
+      And those differences-though contained in the same ball park-were often sufficient to affect crucial points of interpretation. In addition the so call 
+  '''
   ###facts proved 
  never to be mere facts, independent
 of existing belief and theory. Producing them required 
 ##apparatus 
 which itself depended on theory, 
+  '''
 often on the theory that the experiments
 were supposed to test. Even when the apparatus could be redesigned
 to eliminate or reduce these disagreements, the design process some-
